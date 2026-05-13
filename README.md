@@ -134,6 +134,7 @@
 * **LangChain** - Build context-aware AI applications
 * **LlamaIndex** - Intelligent data indexing and retrieval
 * **AutoGen** - Multi-agent context collaboration
+* **[Bring Your AI](https://github.com/unitedideas/portable)** - Local-first Claude Code to Codex migration tool. Preserves local harness data, maps portable instructions, skills, and MCP config, and records non-equivalent hooks, per-agent restrictions, and session artifacts as validation notes.
 
 ## Enterprise Solutions
 
