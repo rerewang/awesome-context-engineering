@@ -131,6 +131,7 @@
 * **Tree-of-Thoughts** - Branching thought processes for complex context management
 
 ### Development Tools
+* **[Akephalos](https://github.com/sunnja69/akephalos)** - Local-first, markdown-first `.akephalos` passport and MCP stdio server for portable agent preferences, tool notes, rules, project context, and durable memories across agents/tools via plain files and Git
 * **LangChain** - Build context-aware AI applications
 * **LlamaIndex** - Intelligent data indexing and retrieval
 * **AutoGen** - Multi-agent context collaboration
