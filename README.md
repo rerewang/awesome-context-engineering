@@ -127,6 +127,7 @@
 
 ### Context Optimization
 * **RAG (Retrieval-Augmented Generation)** - Dynamic context building from external knowledge bases
+* **[Remio](https://remio.ai/)** - Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors so agents can retrieve focused personal context through CLI/skill workflows
 * **Chain-of-Thought** - Structured reasoning that maintains context coherence
 * **Tree-of-Thoughts** - Branching thought processes for complex context management
 
