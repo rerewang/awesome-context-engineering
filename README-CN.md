@@ -134,6 +134,7 @@
 * **LangChain** - 构建上下文感知的 AI 应用程序
 * **LlamaIndex** - 智能数据索引和检索
 * **AutoGen** - 多智能体上下文协作
+* **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** - 本地优先的 Rust CLI/TUI，用于 AI 代理记忆生命周期管理，支持显式召回、审计、遗忘、压缩整合和 JSON 导出
 
 ## 企业解决方案
 
