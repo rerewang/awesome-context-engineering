@@ -134,6 +134,7 @@
 * **LangChain** - Build context-aware AI applications
 * **LlamaIndex** - Intelligent data indexing and retrieval
 * **AutoGen** - Multi-agent context collaboration
+* **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** - Local-first Rust CLI/TUI for AI agent memory lifecycle, with explicit recall, audit, forgetting, consolidation, and JSON export
 
 ## Enterprise Solutions
 
