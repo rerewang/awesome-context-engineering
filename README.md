@@ -134,6 +134,7 @@
 * **LangChain** - Build context-aware AI applications
 * **LlamaIndex** - Intelligent data indexing and retrieval
 * **AutoGen** - Multi-agent context collaboration
+* **[ContextStream](https://contextstream.io)** - Shared project context for Cursor, Claude Code, Codex, Grok ([MCP](https://mcp.contextstream.io/mcp) · [OSS](https://github.com/contextstream/mcp-server)). Intelligence isn’t the bottleneck. Context is.
 
 ## Enterprise Solutions
 
@@ -141,6 +142,7 @@
 * **Contextual AI** - Enterprise context management platform
 * **Portkey.ai** - Context orchestration for high-throughput scenarios
 * **Forte Group** - Context Engineering as a core discipline for AI-driven delivery
+* **[ContextStream](https://contextstream.io)** - Shared project context MCP for coding agents (Cursor, Claude Code, Codex, Grok)
 
 ### Case Studies
 * **JPMorgan's COiN Platform** - Agentic AI for financial analysis with context management
