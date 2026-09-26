@@ -134,6 +134,7 @@
 * **LangChain** - 构建上下文感知的 AI 应用程序
 * **LlamaIndex** - 智能数据索引和检索
 * **AutoGen** - 多智能体上下文协作
+* **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** - 面向开发者的 Alpha 阶段 Rust 知识存储，提供加密、只追加的智能体知识，通过 CLI/MCP 和限定范围、带到期时间的授权访问；采用 MIT 许可证，需从源码构建。
 
 ## 企业解决方案
 

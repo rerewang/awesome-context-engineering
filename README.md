@@ -134,6 +134,7 @@
 * **LangChain** - Build context-aware AI applications
 * **LlamaIndex** - Intelligent data indexing and retrieval
 * **AutoGen** - Multi-agent context collaboration
+* **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** - Developer-alpha Rust store for encrypted, append-only agent knowledge, accessed through CLI/MCP with scoped, expiring grants; MIT licensed, built from source.
 
 ## Enterprise Solutions
 
