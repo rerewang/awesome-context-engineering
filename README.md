@@ -126,6 +126,7 @@
 * **Qdrant** - High-performance vector database for real-time context management
 
 ### Context Optimization
+* **[Agent-Body](https://github.com/1420079678-ctrl/agent-body)** - Task-based tool-schema gating and persistent memory for DeepSeek Harness, with an offline Node.js demo and reproducible benchmark; early-stage, Windows-first.
 * **RAG (Retrieval-Augmented Generation)** - Dynamic context building from external knowledge bases
 * **Chain-of-Thought** - Structured reasoning that maintains context coherence
 * **Tree-of-Thoughts** - Branching thought processes for complex context management

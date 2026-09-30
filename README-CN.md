@@ -126,6 +126,7 @@
 * **Qdrant** - 用于实时上下文管理的高性能向量数据库
 
 ### 上下文优化
+* **[Agent-Body](https://github.com/1420079678-ctrl/agent-body)** - DeepSeek Harness 的按任务工具定义门控与持久记忆层，提供离线 Node.js 演示及可复现基准；项目处于早期，Windows 优先。
 * **RAG（检索增强生成）** - 从外部知识库动态构建上下文
 * **Chain-of-Thought** - 保持上下文一致性的结构化推理
 * **Tree-of-Thoughts** - 用于复杂上下文管理的分支思维过程
